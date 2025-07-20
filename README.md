@@ -30,3 +30,6 @@ Diagram ที่ใช้
 
 - Use Case Diagram (./docs/usecase/usecase-coffee.png)
 - Sequence Diagram (./docs/sequence/order-flow.png)
+
+
+นาย สรวาุธ ติยะวงศ์ ปวส2/24 เลขที่ 7
